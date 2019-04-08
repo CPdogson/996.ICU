@@ -90,6 +90,7 @@
  - [996.RIP](https://996.rip) 不要忘记旧闻。
  
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
+ - [996.action](https://github.com/CPdogson/996action) 利用信息公开的手段，要求劳动监察部门监督企业严格执行休息制度
 
 Issues 去哪了？
 ---
